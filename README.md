@@ -641,4 +641,4 @@ $ npm publish
 ### F. Replace our local reference with a CDN
 If we would like to use this module in a website we might want to use a CDN to do this. A prefect match for us is [npmcdn.com](https://npmcdn.com) since we have published our code to npm.
 
-We can get our UMD bundle at: `https://npmcdn.com/@username/compliments@1.1.0/umd/Compliments.js`
+We can get our UMD bundle at: `https://npmcdn.com/@username/compliments@1.1.0/umd/Compliments.min.js`
